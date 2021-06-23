@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br>
   <img src="https://user-images.githubusercontent.com/74072821/123177096-50711e80-d48d-11eb-9a1e-e924a307cc1c.png" alt="Firebase" height="60" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/74072821/123178823-b01cf900-d490-11eb-9d8d-9e4ed40452f2.png" alt="Postgre" height="60" style="vertical-align:top; margin:4px">
-  <img src="https://user-images.githubusercontent.com/74072821/123178998-1a359e00-d491-11eb-841b-a6339b5ef33d.png" alt="mysql" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/74072821/123178998-1a359e00-d491-11eb-841b-a6339b5ef33d.png" alt="mysql" height="80" style="vertical-align:top; margin:4px">
  
   </br>
 </p>
