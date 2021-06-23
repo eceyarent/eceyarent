@@ -37,13 +37,10 @@ Here are some ideas to get you started:
  <img src="https://user-images.githubusercontent.com/74072821/123178268-857e7080-d48f-11eb-9aa5-1680886509b7.png" alt="HTML" height="60" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/74072821/123177467-fcb30500-d48d-11eb-8e71-7cfeb065788d.png" alt="Angular" height="70" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/74072821/123177322-b78ed300-d48d-11eb-9069-1db0f801328e.png" alt="React" height="60" style="vertical-align:top; margin:4px">
- 
-<br>
   <img src="https://user-images.githubusercontent.com/74072821/123177096-50711e80-d48d-11eb-9a1e-e924a307cc1c.png" alt="Firebase" height="60" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/74072821/123178823-b01cf900-d490-11eb-9d8d-9e4ed40452f2.png" alt="Postgre" height="60" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/74072821/123178998-1a359e00-d491-11eb-841b-a6339b5ef33d.png" alt="mysql" height="80" style="vertical-align:top; margin:4px">
  
-  </br>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eceyarent&theme=midnight-purple">
