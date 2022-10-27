@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-<!--
+
 **eceyarent/eceyarent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-📫 How to reach me: **eceyarent@gmail.com**
+-📫 How to reach me: **eceyarent@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## ✉️ Find me on:
 <p align="center">
  <a href="https://linkedin.com/in/eceyarent" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/74072821/123178652-50265280-d490-11eb-9c74-0be10a24cc16.png" alt="Python" height="60" style="vertical-align:top; margin:4px"></a>
