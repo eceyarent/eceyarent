@@ -42,7 +42,7 @@ Here are some ideas to get you started:
  
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eceyarent&theme=midnight-purple">
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=eceyarent&show_icons=true&theme=midnight-purple">
 
