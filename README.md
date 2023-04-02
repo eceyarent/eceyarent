@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on **Logo Software**
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m currently learning **React Native**
 
 
 
